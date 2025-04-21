@@ -12,7 +12,7 @@
 - 📈 **Performance Optimization** – Fast, responsive UI with optimized media handling.  
 - ☁️ **AWS Deployment** – Hosted with AWS for scalability and reliability.  
 - 📊 **MongoDB Atlas Integration** – NoSQL database for seamless scalability.  
-- 🚀 **Automated CI/CD Pipelines** – Streamlined deployment with GitHub Actions.  
+- 🚀 **Automated CI/CD Pipelines** – Frontend deployed via Vercel with automatic GitHub integration; 
 
 ## 🛠 Tech Stack  
 
