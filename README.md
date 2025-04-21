@@ -1,6 +1,6 @@
 # TuneDraft 🎵  
 
-**TuneDraft** is a collaborative music platform designed for artists and listeners to connect, share, and explore new music. Built with **React, Node.js, and AWS**, the platform provides a seamless experience for music discovery and artist engagement.
+**TuneDraft** is a music platform designed for artists and listeners to connect, share, and explore new music. Built with **React, Node.js, and AWS**, the platform provides a seamless experience for music discovery and artist engagement.
 
 ## 🚀 Features  
 
