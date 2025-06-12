@@ -18,7 +18,7 @@
 
 **Frontend:**  
 - React.js  
-- Redux/ Redux Toolkit
+- Redux/Redux Toolkit
 - Tailwind CSS  
 - React Router  
 
