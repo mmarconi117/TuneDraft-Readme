@@ -18,7 +18,7 @@
 
 **Frontend:**  
 - React.js  
-- Redux  
+- Redux/ Redux Toolkit
 - Tailwind CSS  
 - React Router  
 
@@ -29,8 +29,7 @@
 - OAuth 2.0 Authentication  
 
 **Cloud & Deployment:**  
-- AWS (EC2, S3)  
-- Docker  
+- AWS (EC2, S3)    
 - Vercel (Frontend)  
 - GitHub Actions for CI/CD  
 
